@@ -32,7 +32,7 @@ A modern, web-based guitar tuner built with React, TypeScript, and the Web Audio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/guitar-tuner.git
+   git clone https://github.com/sidsri14/guitar-tuner.git
    cd guitar-tuner
    ```
 
